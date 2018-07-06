@@ -1,7 +1,7 @@
 ## Objectives
 
 1. GHE REPO 8
-2. do some stuff
+2. do even more some stuff
 
 ## Instructions
 
