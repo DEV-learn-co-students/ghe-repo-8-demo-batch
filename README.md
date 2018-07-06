@@ -1,8 +1,7 @@
 ## Objectives
 
 1. GHE REPO 8
-2. do even more some stuff
-
+2. modify this
 ## Instructions
 
 Make the tests pass.
